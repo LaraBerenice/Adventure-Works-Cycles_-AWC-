@@ -13,3 +13,9 @@ Los objetivos son concretos y medibles:
 <div align="center">
   <img src="./Imagenes/Captura%20de%20pantalla%202024-11-03%20180859.png" alt="Descripción de la imagen" width="800" />
 </div>
+
+---
+
+# 🚧 ¡Este proyecto está  siendo actualmente reconstruido! 🚧
+
+---
