@@ -23,11 +23,3 @@ Los objetivos son concretos fueron:
   <img src="./Imagenes/Captura%20de%20pantalla%202024-11-03%20180859.png" alt="Descripción de la imagen" width="800" />
 </div>
 
----
-<<<<<<< HEAD
-
-# 🚧 ¡Este proyecto está  siendo actualmente reconstruido! 🚧
-
----
-=======
->>>>>>> da4a759 (Primer commit)
