@@ -42,7 +42,9 @@ Se diseñó un dashboard interactivo, organizado en secciones que permiten visua
 
 <div align="center">
   <img src="./Imagenes/Captura%20de%20pantalla%202024-11-03%20180859.png" alt="Descripción de la imagen" width="800" />
-</div>## 🔍 Conclusiones y Aprendizajes
+</div>
+
+## 🔍 Conclusiones y Aprendizajes
 El desarrollo de este proyecto permitió comprender la importancia del análisis de datos en la toma de decisiones empresariales. Se logró transformar datos crudos en insights valiosos, optimizando la gestión de ventas de **AWC** mediante visualizaciones claras y dinámicas.
 
 📌 **Futuras mejoras:**  
